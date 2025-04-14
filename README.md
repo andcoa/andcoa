@@ -4,8 +4,6 @@
 
 - <b>Linux Home Lab</b>
   - [Ubuntu and Kali Linux Virtual Machines](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>NixGuard Security Automation</b>
   - [NixGuard](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Pentesting Exercise](https://github.com/joshmadakor1/Jwipe.PowerShell)
