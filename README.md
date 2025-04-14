@@ -13,7 +13,9 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/andcoa)
 - <b>Wazuh</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/andcoa)
-
+- <b>Microsoft Sentinel Home Lab</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/andcoa)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
