@@ -12,9 +12,9 @@
 - <b>Elastic Stack SIEM</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/andcoa)
 - <b>Wazuh</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/andcoa)
+  - [Wazuh SIEM exercise](https://github.com/andcoa)
 - <b>Microsoft Sentinel Home Lab</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/andcoa)
+  - [Microsoft Sentinel Honey Pot](https://github.com/andcoa)
     
 <h2> 🤳 Connect with me:</h2>
 
