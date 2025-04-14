@@ -6,7 +6,7 @@
   - [Ubuntu and Kali Linux Virtual Machines](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>NixGuard Security Automation</b>
   - [NixGuard](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Pentesting Exercise](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Penetration testing Exercise](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [n8n Automation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Incident Response Plan](https://github.com/joshmadakor1/AD_PS)
 - <b>Elastic Stack SIEM</b>
