@@ -11,11 +11,11 @@
   - [Pentesting Exercise](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [n8n Automation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Incident Response Plan](https://github.com/joshmadakor1/AD_PS)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Elastic Stack</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Wazuh</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
