@@ -3,16 +3,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux Home Lab</b>
-  - [Ubuntu and Kali Linux Virtual Machines](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ubuntu and Kali Linux Virtual Machines](https://github.com/andcoa)
 - <b>NixGuard Security Automation</b>
-  - [NixGuard](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Penetration Testing Exercise](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [n8n Automation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Incident Response Plan](https://github.com/joshmadakor1/AD_PS)
+  - [NixGuard](https://github.com/andcoa)
+  - [Penetration Testing Exercise](https://github.com/andcoa)
+  - [n8n Automation](https://github.com/andcoa)
+  - [Incident Response Plan](https://github.com/andcoa)
 - <b>Elastic Stack SIEM</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/andcoa)
 - <b>Wazuh</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/andcoa)
 
 <h2> 🤳 Connect with me:</h2>
 
