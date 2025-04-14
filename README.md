@@ -5,7 +5,7 @@
 - <b>Linux Home Lab</b>
   - [Ubuntu and Kali Linux Virtual Machines](https://github.com/andcoa)
 - <b>NixGuard Security Automation</b>
-  - [NixGuard](https://github.com/andcoa)
+  - [NixGuard](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [Penetration Testing Exercise](https://github.com/andcoa)
   - [n8n Automation](https://github.com/andcoa)
   - [Incident Response Plan](https://github.com/andcoa)
