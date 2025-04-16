@@ -4,7 +4,7 @@
 
 - <b>Linux Home Lab</b>
   - [Ubuntu and Kali Linux Virtual Machines](https://github.com/andcoa)
-- <b>NixGuard Security Automation</b>
+- <b>NixGuard Incident Response Automation</b>
   - [NixGuard](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation)
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan)
