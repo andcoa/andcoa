@@ -4,12 +4,12 @@
 
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
-  - [n8n Automation](https://github.com/andcoa/n8n-automation)
-  - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan)
+  - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
+  - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan/blob/main/README.md)
 - <b>SOC Training</b>
-  - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training)
-- <b>Elastic Stack Home Lab</b>
-  - [Elastic Stack SIEM](https://github.com/andcoa)
+  - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training/blob/main/README.md)
+- <b>Elastic Stack</b>
+  - [Kibana + ELK](https://github.com/andcoa)
 - <b>Wazuh</b>
   - [Wazuh SIEM exercise](https://github.com/andcoa/Wazuh/blob/main/README.md)
 - <b>Microsoft Sentinel Home Lab</b>
