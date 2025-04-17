@@ -10,8 +10,8 @@
   - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training)
 - <b>Linux Home Lab</b>
   - [Linux Virtual Machines](https://github.com/andcoa)
-- <b>Elastic Stack SIEM</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/andcoa)
+- <b>Elastic Stack Home Lab</b>
+  - [Elastic Stack SIEM](https://github.com/andcoa)
 - <b>Wazuh</b>
   - [Wazuh SIEM exercise](https://github.com/andcoa)
 - <b>Microsoft Sentinel Home Lab</b>
