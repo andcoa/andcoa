@@ -11,7 +11,7 @@
 - <b>Elastic Stack Home Lab</b>
   - [Elastic Stack SIEM](https://github.com/andcoa)
 - <b>Wazuh</b>
-  - [Wazuh SIEM exercise](https://github.com/andcoa)
+  - [Wazuh SIEM exercise](https://github.com/andcoa/Wazuh/blob/main/README.md)
 - <b>Microsoft Sentinel Home Lab</b>
   - [Microsoft Sentinel Honey Pot](https://github.com/andcoa)
 
