@@ -16,7 +16,10 @@
   - [Wazuh SIEM exercise](https://github.com/andcoa)
 - <b>Microsoft Sentinel Home Lab</b>
   - [Microsoft Sentinel Honey Pot](https://github.com/andcoa)
-    
+
+<h2>☁️ Cloud:</h2>
+- [AWS Bootcamp](https://github.com/andcoa/aws-bootcamp-cruddur-2023)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
