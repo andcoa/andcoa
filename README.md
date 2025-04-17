@@ -18,7 +18,7 @@
 <h2>☁️ Cloud:</h2>
 
 - <b>AWS Solution Architect Associate Training</b>
-- [AWS Bootcamp](https://github.com/andcoa/aws-bootcamp-cruddur-2023)
+  - [AWS Bootcamp](https://github.com/andcoa/aws-bootcamp-cruddur-2023)
 
 <h2> 🤳 Connect with me:</h2>
 
