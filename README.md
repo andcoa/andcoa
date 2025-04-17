@@ -6,6 +6,8 @@
   - [NixGuard](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation)
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan)
+- <b>SOC Training</b>
+  - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training)
 - <b>Linux Home Lab</b>
   - [Linux Virtual Machines](https://github.com/andcoa)
 - <b>Elastic Stack SIEM</b>
