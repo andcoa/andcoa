@@ -8,8 +8,8 @@
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan/blob/main/README.md)
 - <b>SOC Training</b>
   - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training/blob/main/README.md)
-- <b>ELK Stack</b>
-  - [Elasticsearch, Logstash and Kibana](https://github.com/andcoa/Elasticstack/blob/main/README.md)
+- <b>Elastic Stack (ELK)</b>
+  - [Elasticsearch, Logstash and Kibana exercise](https://github.com/andcoa/Elasticstack/blob/main/README.md)
 - <b>Wazuh</b>
   - [Wazuh SIEM exercise](https://github.com/andcoa/Wazuh/blob/main/README.md)
 - <b>Microsoft Sentinel Home Lab</b>
