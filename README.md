@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>NixGuard Incident Response Automation</b>
-  - [NixGuard SIEM Implementation and Testing](https://github.com/andcoa/NixGuard/blob/main/README.md)
+  - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation)
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan)
 - <b>SOC Training</b>
