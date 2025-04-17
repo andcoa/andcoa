@@ -8,8 +8,6 @@
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan)
 - <b>SOC Training</b>
   - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training)
-- <b>Linux Home Lab</b>
-  - [Linux Virtual Machines](https://github.com/andcoa)
 - <b>Elastic Stack Home Lab</b>
   - [Elastic Stack SIEM](https://github.com/andcoa)
 - <b>Wazuh</b>
