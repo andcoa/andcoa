@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Home Lab</b>
-  - [SOC Home Lab Setup](https://github.com/andcoa/Splunk/blob/main/README.md)
+  - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
