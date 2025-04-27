@@ -5,8 +5,8 @@
 - <b>SOC Home Lab</b>
   - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
 - <b>Metasploit Telemetry Generation</b>
-  - [Metasploit Telemetry Generation](https://github.com/andcoa/HomeLab/blob/main/README.md)
-- <b>Reverse Shell Attack</b>
+  - [Reverse Shell Attack](https://github.com/andcoa/HomeLab/blob/main/README.md)
+- <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan/blob/main/README.md)
