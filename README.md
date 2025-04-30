@@ -5,7 +5,7 @@
 - <b>SOC Home Lab</b>
   - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
 - <b>Active Directory SOC Lab</b>
-  - [Active Directory Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
+  - [Active Directory Environment Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
 - <b>Metasploit Telemetry Generation</b>
   - [Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
