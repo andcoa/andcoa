@@ -10,7 +10,7 @@
   - [Active Directory Environment Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
   - [Brute Force Attack & Atomic Red Team Simulation](https://github.com/andcoa/ART/blob/main/README.md)
 - <b>Azure HoneyNet</b>
-  - [Azure HoneyNet + Sentinel SOC](https://github.com/andcoa/HomeLab/blob/main/README.md)
+  - [Azure HoneyNet + Sentinel SOC](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
