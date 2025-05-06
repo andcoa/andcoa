@@ -15,7 +15,7 @@
   - [Incident Response Plan](https://github.com/andcoa/Incident-Response-Plan/blob/main/README.md)
 - <b>SOC Training</b>
   - [TryHackMe SOC Level 1](https://github.com/andcoa/SOC-Training/blob/main/README.md)
-  - [Elasticsearch, Logstash and Kibana exercise](https://github.com/andcoa/Elasticstack/blob/main/README.md)
+  - [Elasticsearch, Logstash and Kibana (ELK) exercise](https://github.com/andcoa/Elasticstack/blob/main/README.md)
   - [Wazuh SIEM exercise](https://github.com/andcoa/Wazuh/blob/main/README.md)
 
 <h2>☁️ Cloud:</h2>
