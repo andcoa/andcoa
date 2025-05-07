@@ -24,6 +24,8 @@
 
 - <b>AWS Solution Architect Training</b>
   - [AWS Bootcamp](https://github.com/andcoa/aws-bootcamp-cruddur-2023)
+- <b>Microsoft Azure SOC + HoneyNet</b>
+  - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 
 <h2> 🤝 Connect with me:</h2>
 
