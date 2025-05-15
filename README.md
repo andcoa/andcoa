@@ -6,8 +6,7 @@
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>SOC Home Lab</b>
   - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
-- <b>Metasploit Telemetry Generation</b>
-  - [Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
+  - [Metasploit Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
 - <b>Active Directory Lab</b>
   - [Active Directory Environment Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
   - [Brute Force Attack & Atomic Red Team Simulation](https://github.com/andcoa/ART/blob/main/README.md)
