@@ -8,9 +8,11 @@
   - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
 - <b>Metasploit Telemetry Generation</b>
   - [Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
-- <b>Active Directory SOC Lab</b>
+- <b>Active Directory Lab</b>
   - [Active Directory Environment Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
   - [Brute Force Attack & Atomic Red Team Simulation](https://github.com/andcoa/ART/blob/main/README.md)
+- <b>SOC Automation Lab</b>
+  - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md))
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
