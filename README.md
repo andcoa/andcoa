@@ -28,7 +28,7 @@
 - <b>Microsoft Azure SOC + HoneyNet</b>
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>Digital Ocean SOC Automation</b>
-  - [SOC Automation lab on Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
+  - [SOC Automation lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 
 <h2> 🤝 Connect with me:</h2>
 
