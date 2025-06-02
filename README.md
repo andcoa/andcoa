@@ -30,6 +30,12 @@
 - <b>Digital Ocean SOC Automation</b>
   - [SOC Automation lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 
+<h2>🤖 AI:</h2>
+
+- <b>n8n workflows</b>
+  - [RAG Pipeline & Chatbot](https://github.com/andcoa/RAGPipeline/blob/main/README.md)
+  - [Customer Support Workflow](https://github.com/andcoa/AICustomerSupport/blob/main/README.md)
+
 <h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
