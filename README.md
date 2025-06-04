@@ -12,8 +12,8 @@
   - [Brute Force Attack & Atomic Red Team Simulation](https://github.com/andcoa/ART/blob/main/README.md)
 - <b>SOC Automation Lab</b>
   - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
-- <b>SOAR EDR Automation</b>
-  - [SOAR EDR Playbook Workflow](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
+- <b>SOAR EDR Project</b>
+  - [SOAR EDR Automation](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
