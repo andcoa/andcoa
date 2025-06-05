@@ -13,7 +13,7 @@
 - <b>SOC Automation Lab</b>
   - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 - <b>SOAR EDR Project</b>
-  - [SOAR EDR Automation](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
+  - [SOAR EDR Automation](https://github.com/andcoa/SOAREDR/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
@@ -30,8 +30,10 @@
 - <b>Microsoft Azure SOC + HoneyNet</b>
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>Digital Ocean SOC Automation</b>
-  - [SOC Automation lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
-
+  - [SOC Automation Lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
+- <b>Digital Ocean SOC Automation</b>
+  - [SOAR EDR Lab in Vultr](https://github.com/andcoa/SOAREDR/blob/main/README.md)
+    
 <h2>🤖 AI:</h2>
 
 - <b>n8n workflows</b>
