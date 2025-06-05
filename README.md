@@ -13,7 +13,7 @@
 - <b>SOC Automation Lab</b>
   - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 - <b>SOAR EDR Project</b>
-  - [SOAR EDR Automation](https://github.com/andcoa/SOAREDR/blob/main/README.md)
+  - [SOAR EDR Workflow](https://github.com/andcoa/SOAREDR/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
