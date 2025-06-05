@@ -31,7 +31,7 @@
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>Digital Ocean SOC Automation</b>
   - [SOC Automation Lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
-- <b>Digital Ocean SOC Automation</b>
+- <b>Vultr SOAR EDR</b>
   - [SOAR EDR Lab in Vultr](https://github.com/andcoa/SOAREDR/blob/main/README.md)
     
 <h2>🤖 AI:</h2>
