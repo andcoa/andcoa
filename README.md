@@ -27,13 +27,7 @@
 
 - <b>AWS Solution Architect Training</b>
   - [AWS Bootcamp](https://github.com/andcoa/aws-bootcamp-cruddur-2023)
-- <b>Microsoft Azure SOC + HoneyNet</b>
-  - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
-- <b>Digital Ocean SOC Automation</b>
-  - [SOC Automation Lab in Digital Ocean](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
-- <b>Vultr SOAR EDR</b>
-  - [SOAR EDR Lab in Vultr](https://github.com/andcoa/SOAREDR/blob/main/README.md)
-    
+
 <h2>🤖 AI:</h2>
 
 - <b>n8n workflows</b>
