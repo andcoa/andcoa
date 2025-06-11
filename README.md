@@ -36,6 +36,7 @@
  
 - <b>AI Agent</b>
   - [AI Chat Scheduler Agent](https://github.com/andcoa/AIAgentAssistant/blob/main/README.md)
+  - [AI Customer Service Agent](https://github.com/andcoa/CustomerSupportAgent/blob/main/README.md)
 
 <h2> 🤝 Connect with me:</h2>
 
