@@ -30,7 +30,7 @@
 
 <h2>🤖 AI:</h2>
 
-- <b>AI workflows</b>
+- <b>AI Workflows</b>
   - [RAG Pipeline & Chatbot](https://github.com/andcoa/RAGPipeline/blob/main/README.md)
   - [Customer Support Workflow](https://github.com/andcoa/AICustomerSupport/blob/main/README.md)
  
