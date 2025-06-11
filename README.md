@@ -33,6 +33,7 @@
 - <b>AI Workflows</b>
   - [RAG Pipeline & Chatbot](https://github.com/andcoa/RAGPipeline/blob/main/README.md)
   - [Customer Support Workflow](https://github.com/andcoa/AICustomerSupport/blob/main/README.md)
+  - [Security Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
  
 - <b>AI Agents</b>
   - [AI Chat Scheduler Agent](https://github.com/andcoa/AIAgentAssistant/blob/main/README.md)
