@@ -30,11 +30,11 @@
 
 <h2>🤖 AI:</h2>
 
-- <b>n8n workflows</b>
+- <b>AI workflows</b>
   - [RAG Pipeline & Chatbot](https://github.com/andcoa/RAGPipeline/blob/main/README.md)
   - [Customer Support Workflow](https://github.com/andcoa/AICustomerSupport/blob/main/README.md)
  
-- <b>AI Agent</b>
+- <b>AI Agents</b>
   - [AI Chat Scheduler Agent](https://github.com/andcoa/AIAgentAssistant/blob/main/README.md)
   - [AI Customer Service Agent](https://github.com/andcoa/CustomerSupportAgent/blob/main/README.md)
 
