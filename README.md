@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Python scripts
+- <b>Python scripts</b>
   - [SSH Login Brute Force](https://github.com/andcoa/SSHLogin/blob/main/README.md)
 - <b>Microsoft Azure SOC + HoneyNet</b>
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
