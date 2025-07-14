@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [SSH Login Brute Force Script](https://github.com/andcoa/SSHLogin/blob/main/README.md)
   - [SHA256 Password Cracker](https://github.com/andcoa/SHA256password/blob/main/README.md)
+  - [Web Login Brute Force Script](https://github.com/andcoa/WebLoginBruteForce/blob/main/README.md)
 - <b>Microsoft Azure SOC + HoneyNet</b>
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>SOC Home Lab</b>
