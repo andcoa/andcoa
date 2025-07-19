@@ -2,23 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>SOC Home Lab</b>
+  - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
+  - [Metasploit Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
+- <b>SOC Automation Lab</b>
+  - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
+- <b>SOAR EDR Project</b>
+  - [SOAR EDR Workflow](https://github.com/andcoa/SOAREDR/blob/main/README.md)
+- <b>Microsoft Azure SOC + HoneyNet</b>
+  - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>Python</b>
   - [SSH Login Brute Force Script](https://github.com/andcoa/SSHLogin/blob/main/README.md)
   - [SHA256 Password Cracker](https://github.com/andcoa/SHA256password/blob/main/README.md)
   - [Web Login Brute Force Script](https://github.com/andcoa/WebLoginBruteForce/blob/main/README.md)
   - [Automated SQL Injection](https://github.com/andcoa/SQLInjection/blob/main/README.md)
-- <b>Microsoft Azure SOC + HoneyNet</b>
-  - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
-- <b>SOC Home Lab</b>
-  - [SOC Home Lab Setup](https://github.com/andcoa/HomeLab/blob/main/README.md)
-  - [Metasploit Reverse Shell Attack](https://github.com/andcoa/MetasploitTelemetryGeneration/blob/main/README.md)
 - <b>Active Directory Lab</b>
   - [Active Directory Environment Setup](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
   - [Brute Force Attack & Atomic Red Team Simulation](https://github.com/andcoa/ART/blob/main/README.md)
-- <b>SOC Automation Lab</b>
-  - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
-- <b>SOAR EDR Project</b>
-  - [SOAR EDR Workflow](https://github.com/andcoa/SOAREDR/blob/main/README.md)
 - <b>NixGuard Incident Response Automation</b>
   - [NixGuard SIEM Implementation](https://github.com/andcoa/NixGuard/blob/main/README.md)
   - [n8n Automation](https://github.com/andcoa/n8n-automation/blob/main/README.md)
