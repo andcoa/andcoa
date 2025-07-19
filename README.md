@@ -9,7 +9,7 @@
   - [SOC Automation Lab](https://github.com/andcoa/AutomationSquareX/blob/main/README.md)
 - <b>SOAR EDR Project</b>
   - [SOAR EDR Workflow](https://github.com/andcoa/SOAREDR/blob/main/README.md)
-- <b>Microsoft Azure SOC + HoneyNet</b>
+- <b>Microsoft Azure HoneyNet</b>
   - [Azure SOC HoneyNet](https://github.com/andcoa/HoneyNet/blob/main/README.md)
 - <b>Python</b>
   - [SSH Login Brute Force Script](https://github.com/andcoa/SSHLogin/blob/main/README.md)
